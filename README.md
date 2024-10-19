@@ -1,7 +1,5 @@
 # SamNursury Frontend
 
-# Sam Turf Facility Management System
-
 ## Introduction
 
 A user-friendly and responsive nursery facility management system built with TypeScript. The system provides two dashboards: one for users to manage their bookings (nursery slots, facility reservations) and another for admins to manage nursery facilities, view available services, and track booking statistics.
